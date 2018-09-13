@@ -1,0 +1,53 @@
+﻿Build started 2/1/2017 11:46:48 AM.
+     1>Project "C:\Users\Aciryx\Desktop\VGP2\trunk\Sandbox\Onesto\Super Mario Bros\Sources\PC\SimpleMenusPCVS2013.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I. /I..\ /IC:\Users\Aciryx\Desktop\Libraries\FrogSrc\PC /IC:\Users\Aciryx\Desktop\Libraries\FrogSrc /IC:\Users\Aciryx\Desktop\Libraries\FrogSrc\ZLib /IC:\Users\Aciryx\Desktop\Libraries\FrogSrc\TinyThread /IC:\Users\Aciryx\Desktop\Libraries\FrogSrc\GLee /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D NOMINMAX /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\MainGame.cpp ..\MainMenu.cpp ..\MainUpdate.cpp ..\MenuState.cpp MainPC.cpp
+         MainPC.cpp
+         MenuState.cpp
+         MainUpdate.cpp
+         MainMenu.cpp
+         MainGame.cpp
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(42): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(170): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(179): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(180): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(191): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(192): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(205): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(206): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(213): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(214): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(226): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(227): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(240): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(241): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(253): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(254): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(263): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(264): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(273): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(274): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(283): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(284): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(288): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(289): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(346): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(356): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\aciryx\desktop\vgp2\trunk\sandbox\onesto\super mario bros\sources\maingame.cpp(649): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\bin\rc.exe /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\resource.res" resource.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aciryx\Desktop\VGP2\trunk\Sandbox\Onesto\Super Mario Bros\Sources\PC\Debug\SimpleMenusD.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\Aciryx\Desktop\Libraries\FrogSrc/PC FrogPCVS2013D.lib OtherLibrariesPCVS2013D.lib opengl32.lib openal32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Aciryx\Desktop\VGP2\trunk\Sandbox\Onesto\Super Mario Bros\Sources\PC\Debug\SimpleMenusD.pdb" /SUBSYSTEM:WINDOWS,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aciryx\Desktop\VGP2\trunk\Sandbox\Onesto\Super Mario Bros\Sources\PC\Debug\SimpleMenusD.lib" /MACHINE:X86 Debug\resource.res
+         Debug\MainGame.obj
+         Debug\MainMenu.obj
+         Debug\MainUpdate.obj
+         Debug\MenuState.obj
+         Debug\MainPC.obj
+            Creating library C:\Users\Aciryx\Desktop\VGP2\trunk\Sandbox\Onesto\Super Mario Bros\Sources\PC\Debug\SimpleMenusD.lib and object C:\Users\Aciryx\Desktop\VGP2\trunk\Sandbox\Onesto\Super Mario Bros\Sources\PC\Debug\SimpleMenusD.exp
+         SimpleMenusPCVS2013.vcxproj -> C:\Users\Aciryx\Desktop\VGP2\trunk\Sandbox\Onesto\Super Mario Bros\Sources\PC\Debug\SimpleMenusD.exe
+     1>Done Building Project "C:\Users\Aciryx\Desktop\VGP2\trunk\Sandbox\Onesto\Super Mario Bros\Sources\PC\SimpleMenusPCVS2013.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:30.18

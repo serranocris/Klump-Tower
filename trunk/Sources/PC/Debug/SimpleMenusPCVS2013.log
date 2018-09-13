@@ -1,0 +1,45 @@
+﻿Build started 10/19/2017 12:49:20 AM.
+     1>Project "C:\Users\Aciryx\Desktop\VGP2\trunk\Sources\PC\SimpleMenusPCVS2013.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I. /I..\ /IC:\Users\Aciryx\Desktop\Libraries\FrogSrc\PC /IC:\Users\Aciryx\Desktop\Libraries\FrogSrc /IC:\Users\Aciryx\Desktop\Libraries\FrogSrc\ZLib /IC:\Users\Aciryx\Desktop\Libraries\FrogSrc\TinyThread /IC:\Users\Aciryx\Desktop\Libraries\FrogSrc\GLee /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D NOMINMAX /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\KT_Enemies.cpp ..\KT_Platform.cpp ..\Klump.cpp ..\Level.cpp ..\MainGame.cpp ..\MainMenu.cpp ..\MainUpdate.cpp ..\MenuState.cpp ..\PlatformHandler.cpp ..\Player.cpp ..\Tile.cpp ..\TileHandler.cpp MainPC.cpp
+         PlatformHandler.cpp
+     1>c:\users\aciryx\desktop\vgp2\trunk\sources\platformhandler.cpp(14): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\aciryx\desktop\vgp2\trunk\sources\platformhandler.cpp(26): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\aciryx\desktop\vgp2\trunk\sources\platformhandler.cpp(34): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\aciryx\desktop\vgp2\trunk\sources\platformhandler.cpp(107): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+         MenuState.cpp
+         KT_Platform.cpp
+     1>c:\users\aciryx\desktop\vgp2\trunk\sources\kt_platform.cpp(68): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         MainPC.cpp
+         TileHandler.cpp
+         Tile.cpp
+         Player.cpp
+         MainUpdate.cpp
+         MainMenu.cpp
+         MainGame.cpp
+         Level.cpp
+         Klump.cpp
+         KT_Enemies.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aciryx\Desktop\VGP2\trunk\Sources\PC\Debug\Klump Tower.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\Aciryx\Desktop\Libraries\FrogSrc/PC FrogPCVS2013D.lib OtherLibrariesPCVS2013D.lib opengl32.lib openal32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Aciryx\Desktop\VGP2\trunk\Sources\PC\Debug\Klump Tower.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aciryx\Desktop\VGP2\trunk\Sources\PC\Debug\Klump Tower.lib" /MACHINE:X86 Debug\resource.res
+         Debug\Klump.obj
+         Debug\KT_Enemies.obj
+         Debug\KT_Platform.obj
+         Debug\Level.obj
+         Debug\MainGame.obj
+         Debug\MainMenu.obj
+         Debug\MainUpdate.obj
+         Debug\MenuState.obj
+         Debug\PlatformHandler.obj
+         Debug\Player.obj
+         Debug\Tile.obj
+         Debug\TileHandler.obj
+         Debug\MainPC.obj
+         SimpleMenusPCVS2013.vcxproj -> C:\Users\Aciryx\Desktop\VGP2\trunk\Sources\PC\Debug\Klump Tower.exe
+     1>Done Building Project "C:\Users\Aciryx\Desktop\VGP2\trunk\Sources\PC\SimpleMenusPCVS2013.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:32.59

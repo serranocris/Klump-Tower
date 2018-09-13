@@ -1,0 +1,146 @@
+{
+    "Female": {
+        "Filename": "Sprites/Female1Final",
+        "FrameCount": 13,
+        "Origin": "Center"
+    },
+    "Male": {
+        "Filename": "Sprites/Male1Final",
+        "FrameCount": 13,
+        "Origin": "Center"
+    },
+    "CatLeft": {
+        "Filename": "Sprites/CatLeft",
+        "FrameCount": 8,
+        "FrameRate": 15,
+        "Origin": "Center",
+        "PlayType": "Loop"
+    },
+    "CatRight": {
+        "Filename": "Sprites/CatRight",
+        "FrameCount": 8,
+        "FrameRate": 15,
+        "Origin": "Center",
+        "PlayType": "Loop"
+    },
+    "BirdLeft": {
+        "Filename": "Sprites/BirdLeft",
+        "FrameCount": 2,
+        "FrameRate": 2,
+        "Origin": "Center",
+        "PlayType": "Loop"
+    },
+    "BirdRight": {
+        "Filename": "Sprites/BirdRight",
+        "FrameCount": 2,
+        "FrameRate": 2,
+        "Origin": "Center",
+        "PlayType": "Loop"
+    },
+    "KlumpIntro": {
+        "Filename": "Sprites/KlumpIntro",
+        "FrameCount": 30,
+        "FrameRate": 5,
+        "Origin": "TopLeft",
+        "PlayType": "Loop"
+    },
+    "KlumpMovement": {
+        "Filename": "Sprites/KlumpMovement",
+        "FrameCount": 12,
+        "FrameRate": 5,
+        "Origin": "TopLeft",
+        "PlayType": "Loop"
+    },
+    "KlumpMovementHair": {
+        "Filename": "Sprites/KlumpMovementHair",
+        "FrameCount": 12,
+        "FrameRate": 5,
+        "Origin": "TopLeft",
+        "PlayType": "Loop"
+    },
+    "FallingComputer": {
+        "Filename": "Sprites/FallingComputer",
+        "FrameCount": 2,
+        "FrameRate": 10,
+        "Origin": "Center",
+        "PlayType": "Loop"
+    },
+     "FallingPlatform": {
+        "Filename": "Sprites/FallingPlatform",
+        "FrameCount": 9,
+        "FrameRate": 9,
+        "Origin": "TopLeft",
+        "PlayType": "OneShot"
+    },
+     "KlumpGetHit": {
+        "Filename": "Sprites/KlumpGetHit",
+        "FrameCount": 18,
+        "FrameRate": 3,
+        "Origin": "TopLeft",
+        "PlayType": "Loop"
+    },
+     "KlumpGetHitOnce": {
+        "Filename": "Sprites/KlumpGetHitOnce",
+        "FrameCount": 7,
+        "FrameRate": 3,
+        "Origin": "TopLeft",
+        "PlayType": "OneShot"
+    },
+     "KlumpFinalHit": {
+        "Filename": "Sprites/KlumpFinalHit",
+        "FrameCount": 2,
+        "FrameRate": 5,
+        "Origin": "TopLeft",
+        "PlayType": "Loop"
+    },
+     "RandomPowerup": {
+        "Filename": "Sprites/RandomPowerup",
+        "FrameCount": 15,
+        "FrameRate": 30,
+        "Origin": "Center",
+        "PlayType": "Loop"
+    },
+	"Male1WalkRight":{
+		"Filename": "Sprites/Male1WalkRight",
+		"FrameCount": 2,
+		"FrameRate": 4,
+		"Origin": "Center",
+		"PlayType": "Loop"
+	},
+	"Male1WalkLeft":{
+		"Filename": "Sprites/Male1WalkLeft",
+		"FrameCount": 2,
+		"FrameRate": 4,
+		"Origin": "Center",
+		"PlayType": "Loop"
+	},
+	"Male1Falling":{
+		"Filename": "Sprites/Male1Falling",
+		"FrameCount": 2,
+		"FrameRate": 6,
+		"Origin": "Center",
+		"PlayType": "Loop"
+	},
+	"Male1Idle":{
+		"Filename": "Sprites/Male1Idle",
+		"FrameCount":2,
+		"Framerate":1,
+		"Origin":"Center",
+		"PlayType":"Loop"
+	},
+	"Male1Final":{
+		"Filename": "Sprites/Male1Final",
+		"FrameCount":13,
+		"Framerate":1,
+		"Origin":"Center",
+		"PlayType":"Loop"
+	},
+	"BBQ":{
+		"Filename": "Sprites/SweetBabyRays",
+		"ImageSequence": [1],
+		"Origin": "Center"
+	}
+	
+	
+
+}

@@ -1,0 +1,5 @@
+- Player moves slower on moving platform when following direction the platform moves in; Player goes fast when going against platform. Feels weird.
+
+- Objects getting stuck on edge of screen randomly. Can't figure out reason. This has happened to: Klump, player, moving platforms
+
+- Platforms spawning on edge of screen; makes jumps impossible

@@ -1,0 +1,11 @@
+Menu option select
+Cat Mew
+Inoffensive Cat presence noise
+Klump pre-throw
+Klump throw (generic)
+Klump taunts
+falling crap hits player (generic)
+falling crap falling (generic)
+player lands on platform (generic)
+light background ambience (move into Music)
+Klump Tower Intro Logo Sheen noise

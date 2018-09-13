@@ -1,0 +1,26 @@
+O: Overworld Pallette
+U: Underground Pallette
+C: Castle Pallette
+---------------------------------
+## Input Blocks from Bottom to Top, Left to Right
+---------------------------------
+ : Empty
+G: Ground
+?: ? Block with Powerup
+/: ? Block with Coin
+C: Castle
+0: Coin
+B: Brick
+L: Block
+F: Flagpole
+1: Pipe Top Left
+2: Pipe Top Right
+3: Pipe Bottom Left
+4: Pipe Bottom Right
+c: Short Cloud
+b: Short Bush
+h: Small Hill
+d: Long Cloud
+a: Long Bush
+i: Large Hill
+I: Invisible 1up Block

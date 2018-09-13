@@ -1,0 +1,7 @@
+Game Over
+	-SFX for post-game scoring (results menu)
+	-Multiple SFX depending on player's relative score and high score status
+
+In-Game
+	-SFX for in-game scoring
+	-special SFX for combos/doing pretty dece shit

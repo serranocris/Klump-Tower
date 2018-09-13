@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleMenusPCVS2013", "SimpleMenusPCVS2013.vcxproj", "{7652CD6B-35BB-47AB-927F-705012E154DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{74CC1A17-2332-46E1-958F-263F8A15B3D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7652CD6B-35BB-47AB-927F-705012E154DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{7652CD6B-35BB-47AB-927F-705012E154DF}.Debug|x86.Build.0 = Debug|Win32
+		{7652CD6B-35BB-47AB-927F-705012E154DF}.Release|x86.ActiveCfg = Release|Win32
+		{7652CD6B-35BB-47AB-927F-705012E154DF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,214 @@
+O
+---------------
+GG  i          
+GG             
+GG             
+GG             
+GG             
+GG             
+GG             
+GG             
+GG             
+GG             
+GG             
+GGa            
+GG             
+GG             
+GG             
+GG             
+GG h /         
+GG             
+GG             
+GG          c  
+GG   B         
+GG   ?         
+GG   B   /     
+GGb  /         
+GG   B         
+GG             
+GG             
+GG         d   
+GG31           
+GG42           
+GG             
+GG             
+GG             
+GG             
+GG             
+GG             
+GG          c  
+GG             
+GG331          
+GG442          
+GG             
+GGb            
+GG             
+GG             
+GG             
+GG             
+GG3331         
+GG4442         
+GG  i          
+GG             
+GG             
+GG             
+GG             
+GG             
+GG             
+GG             
+GG         c   
+GG3331         
+GG4442         
+GGa            
+GG             
+GG             
+GG             
+GG             
+GG h  I        
+GG             
+GG             
+GG          c  
+GG             
+               
+               
+GGb            
+GG             
+GG             
+GG             
+GG         d   
+GG             
+GG   B         
+GG   ?         
+GG   B         
+GG       B     
+GG       B     
+GG       B     
+GG       B     
+GG       B  c  
+GG       B     
+         B     
+         B     
+               
+GGa            
+GG             
+GG       B     
+GG       B     
+GG       B     
+GG   B   /     
+GG             
+GG  i          
+GG             
+GG             
+GG             
+GG   B         
+GG   B         
+GG             
+GG             
+GG         c   
+GG             
+GG   /         
+GGa            
+GG             
+GG   /   ?     
+GG             
+GG             
+GG h /         
+GG             
+GG             
+GG          c  
+GG             
+GG             
+GG   B         
+GGb            
+GG             
+GG       B     
+GG       B     
+GG       B d   
+GG             
+GG             
+GG             
+GG             
+GG       B     
+GG   B   /     
+GG   B   /     
+GG       B     
+GG          d  
+GG             
+GGL            
+GGLL           
+GGLLL          
+GGLLLL         
+GG             
+GG             
+GGLLLL         
+GGLLL          
+GGLL           
+GGL            
+GG  i          
+GG             
+GG             
+GG             
+GGL            
+GGLL           
+GGLLL          
+GGLLLL         
+GGLLLL     c   
+               
+               
+GGLLLL         
+GGLLL          
+GGLL           
+GGL            
+GG             
+GG h           
+GG             
+GG             
+GG31        c  
+GG42           
+GG             
+GG             
+GGb            
+GG   B         
+GG   B         
+GG   /         
+GG   B     d   
+GG             
+GG             
+GG             
+GG             
+GG             
+GG             
+GG             
+GG31           
+GG42        c  
+GGL            
+GGLL           
+GGLLL          
+GGLLLL         
+GGLLLLL        
+GGLLLLLL       
+GGLLLLLLL      
+GGLLLLLLLL     
+GGLLLLLLLL     
+GG             
+GG             
+GG  i          
+GG             
+GG             
+GG             
+GG             
+GG             
+GGL         F  
+GG             
+GG         c   
+GG             
+GG    C        
+GG             
+GG             
+GG             
+GG             
+GG             
+GG h           
+GG             
+GG             
+GG             
